@@ -74,7 +74,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/Vitor-" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vitor-de-almeida-argeri-aa9969260" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vitor.argeri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/vitor_argeri" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
@@ -89,7 +89,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/[YourUsername]/VitorArgeri/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/VitorArgeri/VitorArgeri/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
