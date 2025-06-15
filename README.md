@@ -50,15 +50,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorArgeri&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=[YourUsername]&theme=radical&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VitorArgeri&theme=radical&hide_border=false" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArgeri&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=radical&no-frame=true&no-bg=true" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=VitorArgeri&theme=radical&no-frame=true&no-bg=true" alt="trophies">
 </p>
 
 ---
