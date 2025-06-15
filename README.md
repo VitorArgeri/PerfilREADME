@@ -89,7 +89,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/[YourUsername]/[YourUsername]/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/[YourUsername]/VitorArgeri/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
