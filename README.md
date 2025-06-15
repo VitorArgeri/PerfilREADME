@@ -86,10 +86,3 @@
 > *"As long as you live, keep learning how to live."* — Sêneca
 
 ---
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/VitorArgeri/VitorArgeri/blob/output/github-contribution-grid-snake.svg)
-
----
-
