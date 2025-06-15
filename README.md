@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Developer from Brazil </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="VitorArgeri" />
+  <img src="https://komarev.com/ghpvc/?username=VitorArgeri&label=Profile%20views&color=0e75b6&style=flat" alt="VitorArgeri" />
 </p>
 
 ---
